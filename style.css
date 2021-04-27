@@ -270,4 +270,10 @@ hr{
     .featured-title-2{
         width: 300px;
     }
+    html, body{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
 }
